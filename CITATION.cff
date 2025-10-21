@@ -1,7 +1,9 @@
-@misc{Gelderbloem_2025_TheoreticalFramework,
-  title={A Theoretical Framework for Hyper-Adaptive Biological State Coherence Under Extreme Systemic Failure},
-  author={Gelderbloem, Taika},
-  year={2025},
-  note={Pre-print available on GitHub},
-  url={[https://github.com/Defirence/theoretical-framework-paper-Oct2025](https://github.com/Defirence/theoretical-framework-paper-Oct2025)},
-}
+cff-version: 1.2.0
+message: "If you use this paper, please cite it as below."
+authors:
+- family-names: "Gelderbloem"
+  given-names: "Taika"
+title: "A Theoretical Framework for Hyper-Adaptive Biological State Coherence Under Extreme Systemic Failure"
+version: 1.0.0
+date-released: 2020-10-21
+url: "https://github.com/Defirence/theoretical-framework-paper-Oct2025"
