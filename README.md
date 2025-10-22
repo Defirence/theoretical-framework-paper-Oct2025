@@ -26,5 +26,5 @@ If you use this framework, its core concepts, or any associated materials in you
   title={A Theoretical Framework for Hyper-Adaptive Biological State Coherence Under Extreme Systemic Failure},
   author={[Taika Gelderbloem]},
   year={2025},
-  url={Permanent URL or DOI (e.g., [https://github.com/Defirence/theoretical-framework-paper-Oct2025))},
+  url={([https://github.com/Defirence/theoretical-framework-paper-Oct2025])},
 }
