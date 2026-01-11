@@ -1,0 +1,39 @@
+DATA SOVEREIGNTY STATEMENT & BIOLOGICAL IP NOTICE
+==========================================================
+AUTHOR/SUBJECT: [Your Name or Researcher ID]
+JURISDICTION: Gauteng, South Africa
+DATE: January 11, 2026
+REF: COVID-19 Survival Case Study / NDE Observation Papers
+
+1. DECLARATION OF SOVEREIGNTY:
+The author asserts full ownership of all genomic, proteomic, and clinical 
+data referenced in the attached research. This data is derived from 
+the author's unique biological adaptation and independent documentation 
+of a Critical Non-ICU survival event.
+
+2. ACCESS & RETURN OF RESULTS (POPIA Section 23):
+- The author mandates the "Return of Results." Any institution sequencing 
+  this sample must provide the author with a complete copy of the Raw 
+  Genomic Data (specifically .vcf or FASTQ files).
+- The author retains the right to "Data Portability," allowing for the 
+  transfer of this code to independent decentralized vaults.
+
+3. RESTRICTIONS ON FURTHER PROCESSING (POPIA Section 15):
+- CONSENT IS LIMITED: This data is provided for specific research into 
+  viral resistance only. 
+- PROHIBITION OF BROAD CONSENT: The author explicitly denies "Broad Consent." 
+  Further processing for unrelated studies or third-party commercial 
+  gain is strictly prohibited without a secondary Data Participation Agreement.
+- NO PATENT WITHOUT DIVIDEND: Any Intellectual Property (IP) or drug 
+  discovery derived from this data is subject to a "Patient Dividend" 
+  royalty model for the author.
+
+4. DE-IDENTIFICATION & RE-IDENTIFICATION:
+The author acknowledges the technical risk of re-identification. Any 
+unauthorized attempt to re-identify the author's anonymized data 
+will be treated as a violation of the South African Constitution 
+and the Protection of Personal Information Act.
+
+----------------------------------------------------------
+"I am because we are. My data, my sovereignty."
+----------------------------------------------------------
