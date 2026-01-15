@@ -1,39 +1,40 @@
-DATA SOVEREIGNTY STATEMENT & BIOLOGICAL IP NOTICE
-==========================================================
-AUTHOR/SUBJECT: Taika Gelderbloem
-JURISDICTION: Gauteng, South Africa
-DATE: January 11, 2026
-REF: COVID-19 Survival Case Study / NDE Observation Papers
+DATA & INTELLECTUAL PROPERTY SOVEREIGNTY MANIFESTO
+Universal Biological IP Notice & Theoretical Rights Declaration
 
-1. DECLARATION OF SOVEREIGNTY:
-The author asserts full ownership of all genomic, proteomic, and clinical 
-data referenced in the attached research. This data is derived from 
-the author's unique biological adaptation and independent documentation 
-of a Critical Non-ICU survival event.
+AUTHOR/SUBJECT: T. Gelderbloem
 
-2. ACCESS & RETURN OF RESULTS (POPIA Section 23):
-- The author mandates the "Return of Results." Any institution sequencing 
-  this sample must provide the author with a complete copy of the Raw 
-  Genomic Data (specifically .vcf or FASTQ files).
-- The author retains the right to "Data Portability," allowing for the 
-  transfer of this code to independent decentralized vaults.
+JURISDICTION: Republic of South Africa (POPIA & Constitutionally Protected)
 
-3. RESTRICTIONS ON FURTHER PROCESSING (POPIA Section 15):
-- CONSENT IS LIMITED: This data is provided for specific research into 
-  viral resistance only. 
-- PROHIBITION OF BROAD CONSENT: The author explicitly denies "Broad Consent." 
-  Further processing for unrelated studies or third-party commercial 
-  gain is strictly prohibited without a secondary Data Participation Agreement.
-- NO PATENT WITHOUT DIVIDEND: Any Intellectual Property (IP) or drug 
-  discovery derived from this data is subject to a "Patient Dividend" 
-  royalty model for the author.
+EFFECTIVE DATE: January 11, 2026
 
-4. DE-IDENTIFICATION & RE-IDENTIFICATION:
-The author acknowledges the technical risk of re-identification. Any 
-unauthorized attempt to re-identify the author's anonymized data 
-will be treated as a violation of the South African Constitution 
-and the Protection of Personal Information Act.
+SCOPE: All past, present, and future research papers, theoretical models, datasets, and non-incepted conceptual frameworks derived from the Subject's unique biological events and independent research.
 
-----------------------------------------------------------
-"I am because we are. My data, my sovereignty."
-----------------------------------------------------------
+1. DECLARATION OF THEORETICAL & BIOLOGICAL OWNERSHIP
+The Author asserts full, unalienable ownership of:
+
+The HABC Framework: All mathematical models, geometric formalisms (Calabi-Yau manifolds in CAS), and the "Tardigrade Protocol" as defined in the Subject’s publications.
+
+Biological IP: All genomic, proteomic, and clinical data derived from the Author’s unique physiological adaptations and "Critical Non-ICU" survival events.
+
+Conceptual Continuity: Ownership extends to the synthesis of these biological events into theoretical physics and quantum biology models.
+
+2. MANDATORY ACCESS & DATA PORTABILITY (POPIA Section 23)
+Return of Results: Any entity or institution analyzing, sequencing, or simulating models based on the Author's biological samples or data must provide the Author with a full copy of the results, including Raw Genomic Data (FASTQ, .vcf) or high-resolution simulation outputs.
+
+Decentralized Sovereignty: The Author retains the right to "Data Portability." This information is the Author's property and may be moved to independent, decentralized vaults at the Author’s discretion.
+
+3. RESTRICTIONS ON FURTHER PROCESSING (POPIA Section 15)
+Specific Consent Only: Data and theoretical models are provided solely for the research purposes explicitly stated in the specific paper.
+
+Denial of Broad Consent: The Author explicitly denies "Broad Consent." Any use of these theories or biological data for unrelated studies, AI training, or third-party commercial applications is strictly prohibited without a separate Data Participation Agreement (DPA).
+
+No Patent Without Dividend: Any Intellectual Property (IP), drug discovery, or algorithmic development derived from the Subject's data or theoretical models is subject to a "Patient-Researcher Dividend" royalty model.
+
+4. LEGAL PROTECTIONS & CONSTITUTIONAL RECOURSE
+Non-Derogable Rights: These rights are asserted under the South African Constitution and the Protection of Personal Information Act (POPIA).
+
+Anonymization Protections: Any attempt to re-identify the Author’s anonymized data or "reverse-engineer" the Author's unique biological signatures without express written permission will be treated as a criminal violation of privacy.
+
+Enforcement: This notice serves as a "Stop Processing" order under POPIA should the terms of the specific research be breached.
+
+"Ex Africa semper aliquid novi. My data, my theory, my sovereignty."
